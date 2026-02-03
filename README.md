@@ -4,9 +4,28 @@ CommandBridge is an early-stage desktop automation project focused on exploring 
 
 The goal of this project is not to create an unrestricted command executor, but rather a controlled automation assistant that routes user intent through a defined set of tools with safeguards, confirmations, and logging.
 
-# WARNING!!!
+AI and Heavy Research are being used to help with building and organizing this project.
 
-This project is under construction. This code may be volatile, and any damage to your computer is your responsibility.
+## Disclaimer and Limitation of Responsibility
+
+CommandBridge is a powerful local automation tool that can control applications, files, and system input on the user’s machine.
+
+By using CommandBridge, the user acknowledges and agrees that:
+
+- All actions are executed **locally on the user’s own system**
+- The user is fully responsible for any commands they enter
+- The software performs actions **as requested by the user**, either directly or through AI-assisted interpretation
+- Automation actions may be destructive if misused, including file deletion or data modification
+
+CommandBridge is provided **“as is”**, without warranty of any kind, express or implied. The developer assumes no responsibility for data loss, system damage, unintended behavior, or consequences resulting from use or misuse of the software.
+
+It is the user’s responsibility to:
+- Review commands before execution
+- Confirm high-impact actions when prompted
+- Maintain backups of important data
+- Use the software in compliance with applicable laws and policies
+
+Use of CommandBridge constitutes acceptance of these terms.
 
 ## Project Status
 
