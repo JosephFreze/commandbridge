@@ -4,6 +4,10 @@ CommandBridge is an early-stage desktop automation project focused on exploring 
 
 The goal of this project is not to create an unrestricted command executor, but rather a controlled automation assistant that routes user intent through a defined set of tools with safeguards, confirmations, and logging.
 
+# WARNING!!!
+
+This project is under construction. This code may be volatile, and any damage to your computer is your responsibility.
+
 ## Project Status
 
 This project is in its initial planning and prototyping phase.  
